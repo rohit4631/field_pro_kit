@@ -1,7 +1,7 @@
 name: field_pro_kit
 description: A complete, modern, and highly customizable form input system with 3D neumorphism, separated labels, animations, and advanced fields like dropdowns and date pickers.
 version: 1.0.0
-repository: https://github.com/your-username/field_pro_kit
+repository: https://github.com/rohit4631/field_pro_kit
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
