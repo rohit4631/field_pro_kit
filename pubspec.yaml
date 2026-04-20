@@ -1,0 +1,20 @@
+name: field_pro_kit
+description: A complete, modern, and highly customizable form input system with 3D neumorphism, separated labels, animations, and advanced fields like dropdowns and date pickers.
+version: 1.0.0
+repository: https://github.com/your-username/field_pro_kit
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_skill: ^0.2.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
